@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## Equipo 08  
+
 **Juan Sebastián Puerto** • **Jeferson Acevedo** 
 
 ---
