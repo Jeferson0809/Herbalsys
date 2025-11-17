@@ -90,16 +90,15 @@ Incluye:
 ## 🔗 Enlaces relevantes
 
 - **Aplicación desplegada:** *(por añadir)*
-- **Repositorio GitHub:** *(actual)*
-- **JIRA/Trello:** *(por añadir)*
+- **Repositorio GitHub:** https://github.com/Jeferson0809/Herbalsys
+- **JIRA/Trello:** https://ingsoftwarei.atlassian.net/jira/software/c/projects/HERBAL/summary?atlOrigin=eyJpIjoiMzkxNjdhOTYyNjA4NDc4OWJmMWEzM2ZlNTU0MmRhYjIiLCJwIjoiaiJ9
 
 ---
 
 ## 👨‍💻 Autores
 
-- Juan Sebastián Puerto — Scrum Master  
-- Jeferson Jair Acevedo — Product Owner  
-- Juan Sebastián Jinete — Development Team
+- Juan Sebastián Puerto — Scrum Master / Development Team
+- Jeferson Jair Acevedo — Product Owner / Development Team
 
 ---
 
